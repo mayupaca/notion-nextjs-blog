@@ -2,6 +2,7 @@
   "name": "nextjs",
   "version": "0.1.0",
   "private": true,
+  "react-script": "^5.0.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
